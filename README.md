@@ -1,55 +1,76 @@
-<h1 align="center">👋 Hello World, I'm Amit Maharana!</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amitmaharana-git.amitmaharana-git" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Passionate+Software+Developer;Aspiring+Open-Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amit+Maharana!;" />
+</h1>
 
----
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
-<p align="center">
-  I’m a <b>Passionate and Aspiring Software Developer</b> from <b>India</b>, exploring the world of technology and constantly improving my skills to build amazing software!
-</p>
+<br/>
 
----
+<div align="center">
+ 
+ 🔭 I’m currently working on **improving my coding skills**
+ 
+ 🌱 I’m currently learning **Advanced Java, SQL, and exploring GSoC opportunities**
 
-<h2 align="center">🚀 Languages and Tools I Use</h2>
-<p align="center">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+ 💬 Ask me about **Java, SQL, HTML, CSS, JavaScript, or anything [here](https://github.com/amitmaharana-git/amitmaharana-git/issues)**
+
+ ⚡ Fun fact **Debugging is twice as hard as writing the code in the first place!**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:amitmaharana@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <a href="https://linkedin.com/in/amit-maharana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <a href="https://amitmaharana-portfolio.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  </a>
-</p>
+</div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,react,mysql,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=android,mongodb,tailwind,aws" /><br>
+</div>
 
-<h2 align="center">⚡️ Where to Find Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/amit-maharana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
+<br/>
+<hr/>
 
----
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amitmaharana-git/amitmaharana-git/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitmaharana-git&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<hr/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitmaharana-git&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amitmaharana-git&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=amitmaharana-git&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amitmaharana-git&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
