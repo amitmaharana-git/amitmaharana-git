@@ -47,7 +47,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amitmaharana-git/amitmaharana-git/output/github-contribution-grid-snake.svg" />
+  <!-- Updated snake animation with Platane's snk action -->
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amitmaharana-git/amitmaharana-git/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
