@@ -7,18 +7,6 @@
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **improving my coding skills**
- 
- 🌱 I’m currently learning **Advanced Java, SQL, and exploring GSoC opportunities**
-
- 💬 Ask me about **Java, SQL, HTML, CSS, JavaScript, or anything [here](https://github.com/amitmaharana-git/amitmaharana-git/issues)**
-
- ⚡ Fun fact **Debugging is twice as hard as writing the code in the first place!**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:amitmaharana@example.com">
