@@ -1,6 +1,6 @@
 # 👋 Hi There! I'm Amit Maharana
 
-### An aspiring and passionate software developer from India 🇮🇳
+### An Aspiring and Passionate Software Developer From India 🇮🇳
 
 ---
 
